@@ -11,7 +11,9 @@
 + 分类抓取图片
 + 自动筛选装饰性图片
 + 支持天猫、淘宝、聚划算页面的图片抓取
-+ 处理了分页 
++ 处理了分页   
+
+
 例如 ：
 
 抓取https://s.taobao.com/search?spm=a230r.1.14.39.s0V1z4&type=similar&app=i2i&rec_type=1&uniqpid=-972372134&nid=529793442152&s=60
