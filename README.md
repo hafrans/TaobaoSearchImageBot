@@ -1,11 +1,11 @@
-# Taobao Search Image Bot
+# Taobao Search Image Bot Python
 
 
 ##Details
 + 根据淘宝搜索页抓取商品详情中的图片
 + 可以一次执行多个搜索页的抓取任务
 + 已处理反爬虫机制
-+ Windows 与 Linux 都可以执行 Python 2.7
++ Windows 与 Linux 都可以执行 (env. Python 2.7)
 + 可以控制抓取数量
 + 抓取阶段实时监测
 + 分类抓取图片
